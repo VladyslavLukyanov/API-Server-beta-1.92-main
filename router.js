@@ -18,19 +18,19 @@ export const API_EndPoint = async function (HttpContext) {
         if (HttpContext.req.url === "/api/bookmarks?") {
           HttpContext.response.HTML(`
                     List of parameters in query strings:
-                    ? sort=key
+                    ? sort=key <br>
                     return all words sorted by key values (word)
-                    ? sort,desc=key
+                    ? sort,desc=key<br>
                     return all words sorted by descending key values
-                    ? key=value
+                    ? key=value<br>
                     return the word with key value = value
-                    ? key=value*
+                    ? key=value*<br>
                     return the word with key value that start with value
-                    ? key=*value*
+                    ? key=*value*<br>
                     return the word with key value that contains value
-                    ? key=*value
+                    ? key=*value<br>
                     return the word with key value end with value
-                    page?limit=int&offset=int
+                    page?limit=int&offset=int<br>
                     return limit words of page offset
                     `);
         }
