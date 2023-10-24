@@ -1,0 +1,116 @@
+[
+  {
+    "Id": 1,
+    "Title": "Collège de Maisonneuves",
+    "Url": "https://www.cmaisonneuve.qc.ca/",
+    "Category": "Cegep"
+  },
+  {
+    "Id": 2,
+    "Title": "Collège Lionel-Groulx",
+    "Url": "https://clg.qc.ca/",
+    "Category": "Cegep"
+  },
+  {
+    "Id": 3,
+    "Title": "Collège Montmorency",
+    "Url": "https://www.cmontmorency.qc.ca/",
+    "Category": "Cegep"
+  },
+  {
+    "Id": 4,
+    "Title": "Azure",
+    "Url": "https://portal.azure.com/#home",
+    "Category": "Cloud"
+  },
+  {
+    "Id": 5,
+    "Title": "Glitch",
+    "Url": "https://glitch.com/",
+    "Category": "Cloud"
+  },
+  {
+    "Id": 5,
+    "Title": "GitHub",
+    "Url": "https://github.com/",
+    "Category": "Cloud"
+  },
+  {
+    "Id": 6,
+    "Title": "Météo Blainville",
+    "Url": "https://www.meteomedia.com/ca/meteo/quebec/blainville",
+    "Category": "Météo"
+  },
+  {
+    "Id": 7,
+    "Title": "NHC",
+    "Url": "https://www.nhc.noaa.gov/index.shtml",
+    "Category": "Météo"
+  },
+  {
+    "Id": 8,
+    "Title": "Windy.com",
+    "Url": "https://www.windy.com/station/madis-c3442?45.765,-73.694,8",
+    "Category": "Météo"
+  },
+  {
+    "Id": 9,
+    "Title": "CNN",
+    "Url": "https://www.cnn.com/",
+    "Category": "Nouvelles"
+  },
+  {
+    "Id": 10,
+    "Title": "Radio-Canada",
+    "Url": "https://ici.radio-canada.ca",
+    "Category": "Nouvelles"
+  },
+  {
+    "Id":11,
+    "Title": "Facebook",
+    "Url": "https://www.facebook.com/",
+    "Category": "Réseaux sociaux"
+  },
+  {
+    "Id": 12,
+    "Title": "Instagram",
+    "Url": "https://www.instagram.com/?hl=fr",
+    "Category": "Réseaux sociaux"
+  },
+  {
+    "Id": 13,
+    "Title": "Tiktok",
+    "Url": "https://www.tiktok.com/fr/",
+    "Category": "Réseaux sociaux"
+  },
+  {
+    "Id": 14,
+    "Title": "Disney Plus",
+    "Url": "https://www.disneyplus.com/fr-ca/home",
+    "Category": "Streaming"
+  },
+  {
+    "Id": 15,
+    "Title": "Netflix",
+    "Url": "https://www.netflix.com/browse",
+    "Category": "Streaming"
+  },
+  {
+    "Id": 16,
+    "Title": "Univerité de Sherbrooke",
+    "Url": "https://www.usherbrooke.ca/",
+    "Category": "Université"
+  },
+  {
+    "Id": 17,
+    "Title": "Université de Montréal",
+    "Url": "https://www.umontreal.ca/",
+    "Category": "Université"
+  },
+  {
+    "Id": 18,
+    "Title": "Armada",
+    "Url": "https://www.cmaisonneuve.qc.ca/",
+    "Category": "AHL"
+  }
+]
